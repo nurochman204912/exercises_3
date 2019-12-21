@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+wrapper{
+background-image:url(images/bg.jpg);
+}
+
+container{
+background-image:url(images/bgcontainer.jpg);
+width: 1200px;
+height: 2400px;
+}
+
+	
